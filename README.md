@@ -38,6 +38,3 @@
   <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/51660339/255291664-ef6d8cbe-4a1b-4eba-b5c9-6fb07ac08453.png" alt="Descrição da imagem" />
-</p>
