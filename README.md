@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="felipebofi09" /> </p>
 
-- 🔭 Atualmente estou realizando o meu primeiro Projeto no MySql, referente a um universo que tanto aprecio, o Universo Pokemon 😇. Esse projeto se chama [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex)
+- 🔭 Atualmente estou realizando o meu primeiro Projeto no MySQL, referente a um universo que tanto aprecio, o Universo Pokemon 😇. Esse projeto se chama [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex)
 
 - 📫 Entre em contato comigo via e-mail: **felipebofi@hotmail.com**
 
