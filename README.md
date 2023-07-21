@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me Chamo Felipe 👋</h1>
+<h1 align="center">Olá caro(a) Leitor(a), me Chamo Felipe 👋</h1>
 <h3 align="center">Sou um entusiasta da área de Suporte e Banco de Dados, graduando em Gestão da Tecnologia da Informação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="felipebofi09" /> </p>
