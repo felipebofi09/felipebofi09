@@ -33,4 +33,3 @@
     Clique aqui para ver o meu currículo em PDF
   </a>
 </p>
-
