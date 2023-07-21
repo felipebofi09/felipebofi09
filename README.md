@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
+- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
 - 🌱 Atualmente, procuro oportunidades na área de Suporte e Banco de Dados, independente do nível hierárquico. Estou empolgado em trabalhar nesse ramo e aprimorar minhas habilidades em SQL.
 
