@@ -5,12 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
+- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
-- 🌱 Atualmente, procuro oportunidades na área de Suporte e Banco de Dados, independente do nível hierárquico. Estou empolgado em trabalhar nesse ramo e aprimorar minhas habilidades em SQL.
-
-- 📫 Caso deseje entrar em contato comigo, meu e-mail é: **felipebofi@hotmail.com**
-
+- 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -30,11 +27,9 @@
   <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
 
+<h3 align="center">Currículo</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51660339/255291664-ef6d8cbe-4a1b-4eba-b5c9-6fb07ac08453.png" alt="Descrição da imagem" />
-</p>
-
+  <a href="https://github.com/felipebofi09/curriculofelipebofi/files/12134915/Curriculo.-.Felipe.Bofi.pdf" target="_blank">
+    <img src="https://user-images.githubusercontent.com/51660339/255291664-ef6d8cbe-4a1b-4eba-b5c9-6fb07ac08453.png" alt="Currículo de Felipe Bofi" />
   </a>
-  <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
-
