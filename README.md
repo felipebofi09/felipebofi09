@@ -7,9 +7,10 @@
 
 - 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
-- 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
+- 🌱 Atualmente, procuro oportunidades na área de Suporte e Banco de Dados, independente do nível hierárquico. Estou empolgado em trabalhar nesse ramo e aprimorar minhas habilidades em SQL.
 
-- 🌱 Atualmente, procuro oportunidades na área de Suporte e Banco de Dados, independente do nível hierárquico. Estou empolgado em trabalhar com bancos de dados e aprimorar minhas habilidades em SQL.
+- 📫 Caso deseje entrar em contato comigo, meu e-mail é: **felipebofi@hotmail.com**
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
