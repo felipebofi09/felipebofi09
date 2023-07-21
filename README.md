@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex). 
+- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
+
+- 📞 Contate-me via WhatsApp: [14 99706-4844](https://wa.me/5514997064844)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -25,11 +27,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
   <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
-</p>
-
-<h3 align="center">Currículo</h3>
-<p align="center">
-  <a href="https://github.com/felipebofi09/curriculofelipebofi/files/12134915/Curriculo.-.Felipe.Bofi.pdf" target="_blank">
-    Clique aqui para ver o meu currículo em PDF
-  </a>
 </p>
