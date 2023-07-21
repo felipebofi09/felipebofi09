@@ -1,14 +1,15 @@
-<h1 align="center">Olá 👋, me Chamo Felipe</h1>
-<h3 align="center">Sou um entusiasta da área de Suporte e Banco de Dados</h3>
+<h1 align="center">Olá, me Chamo Felipe 👋</h1>
+<h3 align="center">Sou um entusiasta da área de Suporte e Banco de Dados, Graduando em Gestão da Tecnologia da Informação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="felipebofi09" /> </p>
 
-- 🔭 Atualmente estou realizando o meu primeiro Projeto no MySql, referente a um universo que tanto aprecio [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex)
+- 🔭 Atualmente estou realizando o meu primeiro Projeto no MySql, referente a um universo que tanto aprecio, o Universo Pokemon 😇. Esse projeto se chama [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex)
 
-- 📫 Como me contatar? **felipebofi@hotmail.com**
+- 📫 Entre em contato comigo via e-mail: **felipebofi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-bofi-137559199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-bofi-137559199/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
