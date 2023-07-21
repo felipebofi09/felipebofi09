@@ -30,4 +30,6 @@
 <h3 align="center">Currículo</h3>
 <p align="center">
   <a href="https://github.com/felipebofi09/curriculofelipebofi/files/12134915/Curriculo.-.Felipe.Bofi.pdf" target="_blank">
-  
+    Clique aqui para ver o meu currículo em PDF
+  </a>
+</p>
