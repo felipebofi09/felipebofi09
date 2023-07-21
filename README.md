@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://wa.me/seu_numerodetelefone" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="WhatsApp" height="30" width="30" />
+  <a href="https://wa.me/5514997064844" target="_blank">
+    <img align="center" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="WhatsApp" height="30" width="30" />
   </a>
 </p>
 
@@ -27,8 +27,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/d/d6/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5.png" target="_blank" rel="noreferrer">
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5.png" alt="Oracle" width="40" height="40" />
   </a>
+  <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
-
