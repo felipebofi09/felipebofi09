@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
+- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
 
