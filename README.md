@@ -9,7 +9,7 @@
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Outros Canais de Contato:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
