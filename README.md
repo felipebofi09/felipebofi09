@@ -9,6 +9,8 @@
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
 
+- 🌱 Atualmente, procuro oportunidades na área de Suporte e Banco de Dados, independente do nível hierárquico. Estou empolgado em trabalhar com bancos de dados e aprimorar minhas habilidades em SQL.
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
@@ -23,6 +25,14 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51660339/255291664-ef6d8cbe-4a1b-4eba-b5c9-6fb07ac08453.png" alt="Descrição da imagem" />
+</p>
+
   </a>
   <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
