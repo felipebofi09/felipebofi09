@@ -11,9 +11,9 @@
 
 - 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado Projeto Pokedex <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Pokédex" height="30" width="30" />.
 
-- 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
+- 📫 Fale comigo via e-mail: **felipebofi@hotmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Você pode me contatar também via:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
