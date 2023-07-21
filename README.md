@@ -9,7 +9,7 @@
   <img src="https://wallpaperset.com/w/full/b/4/3/428195.jpg" alt="Imagem de Fundo" width="500" />
 </p>
 
-- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado Projeto Pokedex . <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Pokédex" height="30" width="30" />.
+- 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado Projeto Pokedex -  <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Pokédex" height="30" width="30" />.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
