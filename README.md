@@ -9,12 +9,13 @@
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
 
-- 📞 Contate-me via WhatsApp: [14 99706-4844](https://wa.me/5514997064844)
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/5514997064844" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174879.png" alt="WhatsApp" height="30" width="30" />
   </a>
 </p>
 
