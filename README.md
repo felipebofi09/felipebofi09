@@ -30,6 +30,4 @@
 <h3 align="center">Currículo</h3>
 <p align="center">
   <a href="https://github.com/felipebofi09/curriculofelipebofi/files/12134915/Curriculo.-.Felipe.Bofi.pdf" target="_blank">
-    <img src="https://user-images.githubusercontent.com/51660339/255291664-ef6d8cbe-4a1b-4eba-b5c9-6fb07ac08453.png" alt="Currículo de Felipe Bofi" />
-  </a>
-</p>
+  
