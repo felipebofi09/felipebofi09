@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Pokédex" />
+  <img src="https://static.wikia.nocookie.net/pokepediabr/images/3/38/Pok%C3%A9dex_Kanto.png/revision/latest?cb=20131224014121&path-prefix=pt-br" alt="Pokédex" height="60" width="60" />
 </p>
 
 - 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
@@ -43,3 +43,4 @@
     Clique aqui para ver o meu currículo em PDF
   </a>
 </p>
+
