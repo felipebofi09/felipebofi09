@@ -10,6 +10,8 @@
 </p>
 
 - 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. Este projeto é chamado Projeto Pokedex.
+- 💼 Estou aberto a oportunidades de estágio na área de Suporte ao Cliente e Banco de Dados.
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
@@ -43,4 +45,6 @@
     Clique aqui para ver o meu currículo em PDF
   </a>
 </p>
+
+
 
