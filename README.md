@@ -5,18 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://wa.me/5514997064844" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
 - 🔭 Atualmente, estou trabalhando em meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon 😇. Este projeto é chamado [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
 
 - 📫 Entre em contato comigo por e-mail: **felipebofi@hotmail.com**
-
-- 📞 Contate-me via WhatsApp: [14 99706-4844](https://wa.me/5514997064844)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipe-bofi-137559199/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -28,3 +29,4 @@
   </a>
   <!-- Adicione outras ferramentas e linguagens com os respectivos links e imagens, se desejar -->
 </p>
+
