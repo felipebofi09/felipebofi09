@@ -9,7 +9,7 @@
   <img src="https://wallpaperset.com/w/full/b/4/3/428195.jpg" alt="Imagem de Fundo" width="600" />
 </p>
 
-- 🔭 Peço para que olhem o meu primeiro projeto no MySQL, relacionado a um universo que tanto aprecio, o Universo Pokemon. O mesmo se chama [Projeto Pokedex](https://github.com/felipebofi09/Projeto_Pokedex).
+- 🔭 Se você quiser ver meus projetos, clique aqui: [Meus Projetos](https://github.com/felipebofi09?tab=repositories)
 - 💼 Estou aberto a oportunidades de estágio na área de Suporte ao Cliente e Banco de Dados.
 
 <h3 align="left">Contate-se comigo:</h3>
