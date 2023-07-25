@@ -9,7 +9,7 @@
   <img src="https://wallpaperset.com/w/full/b/4/3/428195.jpg" alt="Imagem de Fundo" width="600" />
 </p>
 
-- 🔭 Se você quiser ver meus projetos, [Clique Aqui:](https://github.com/felipebofi09?tab=repositories)
+- 🔭 Se você quiser ver meus projetos, [clique Aqui:](https://github.com/felipebofi09?tab=repositories) 
 - 💼 Estou aberto a oportunidades de estágio na área de Suporte ao Cliente e Banco de Dados.
 
 <h3 align="left">Contate-se comigo:</h3>
