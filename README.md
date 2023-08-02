@@ -10,7 +10,6 @@
 </p>
 
 - 🔭 Se você quiser ver meus projetos, [clique Aqui:](https://github.com/felipebofi09?tab=repositories) 
-- 💼 Estou aberto a oportunidades de estágio na área de Suporte ao Cliente e Banco de Dados.
 
 <h3 align="left">Contate-se comigo:</h3>
 <p align="left">
