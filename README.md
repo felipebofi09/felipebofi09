@@ -1,5 +1,5 @@
 <h1 align="center">Olá caro(a) Leitor(a), me chamo Felipe 👋</h1>
-<h3 align="center">Sou graduando em Gestão da Tecnologia da Informação, com foco em Suporte ao Cliente e Banco de Dados</h3>
+<h3 align="center">Sou graduando em Gestão da Tecnologia da Informação, com foco em Suporte </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipebofi09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
